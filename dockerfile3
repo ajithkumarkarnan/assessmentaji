@@ -1,5 +1,5 @@
 FROM ubuntu
 MAINTAINER ajith <ajithkumar001259@gmail.com>
 RUN ls
-CMD "echo","ha.." 
+CMD "echo","hi.." 
 
